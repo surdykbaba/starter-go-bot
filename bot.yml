@@ -1,11 +1,12 @@
-name: Beepboop Starterbot
-description: A simple Go bot starter for Beep Boop
+name: Ajanlekoko
+description: Ajanlekoko is crazy, You'll love him.Wait... The key is to drink coconut, Continue... fresh coconut, trust me.  
+|
 avatar: resources/avatar.jpg
-#background: resources/background.png
-#config:
-#  - name: OPTION
-#    friendly_name: Some Unnecessary Option
-#    info: This is an unnecessary option
+background: resources/background.png
+config:
+ - name: Ajanlekoko
+    friendly_name: 4Man
+    info: Ajanlekoko is crazy
 #    default: the default value
 #  - name: SECRET
 #    friendly_name: Shhhh
